@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import WeatherDisplay from './WeatherDisplay';
-import { places } from '../places';
+import places from '../places';
 import { Navbar, NavItem, Nav, Grid, Row, Col } from 'react-bootstrap';
 import 'bootswatch/journal/bootstrap.css';
 import './App.css';

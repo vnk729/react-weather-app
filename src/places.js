@@ -1,4 +1,4 @@
-export const places = [
+export default [
   { name: 'Moscow', cityName: 'Moscow, RU'},
   { name: 'Washington', cityName: 'Washington, US'},
   { name: 'London', cityName: 'London, GB' },
